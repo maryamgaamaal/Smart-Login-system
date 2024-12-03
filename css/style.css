@@ -1,0 +1,49 @@
+body{background-color: #24353f;}
+.item{background-color: #24353f;box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);}
+h2{color: #17a2b8;font-size: 40px;font-weight: 500;}
+input{background-color: transparent !important;color: white;}
+input:focus, textarea:focus {
+    box-shadow: 0 0 0 0 transparent !important;}
+.form-control{color: white;}
+.form-control::placeholder{color: #ced4da;font-weight: 400;font-size: 16px;}
+.btn-outline-info:hover {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+.btn-outline-info {
+    color: #17a2b8;
+    background-color: transparent;
+    background-image: none;
+    border-color: #17a2b8;
+}
+input, textarea {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+a:hover {
+    text-decoration: underline;
+}
+a{text-decoration: none;color: white;}
+
+/* //////////////////////////////////////homeeee */
+.test {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);width: 55%;height: 150px;}
+  .test  h1 {
+        color: #17a2b8;
+    }
+    .navbar-dark .navbar-nav .nav-link {
+        color: rgba(255, 255, 255, .5) !important;
+
+    }
+    .navbar{background-color: transparent !important;box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);}
+
+
+
+
+
+
+
+
+
+
